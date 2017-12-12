@@ -1,0 +1,11 @@
+Ingredients:
+ - bread
+
+Directions:
+ 1. Plug in toaster
+
+ 2. Put bread into toaster
+
+ 3. Push the bar down
+
+ 4. Wait for toast to pop up
